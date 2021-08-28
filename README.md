@@ -18,6 +18,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
 
+:technologist: Dev Stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mongo/mongodb-original.svg" alt="mongo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg" alt="couch" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="K8s" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>
+
+
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=paras16jul1991&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Paras's github stats" />
 </a>
